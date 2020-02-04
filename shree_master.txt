@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hi
 hello
+=======
+Hello my master
+hi
+>>>>>>> 60a4e9b484cfc24bb376d3344a153dc93ecf5494
